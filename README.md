@@ -15,4 +15,4 @@ Shiny Application: https://czuewj-raamses-d0az.shinyapps.io/MyappDDP/
 
 Ioslide Presentation: 
 
-GitHub Repository: 
+GitHub Repository: https://github.com/Raamses-DS/Developing-Data-Products-Course/tree/main
