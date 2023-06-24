@@ -13,6 +13,6 @@ In need of meeting the requirements of the project, the corresponding links with
 
 Shiny Application: https://czuewj-raamses-d0az.shinyapps.io/MyappDDP/
 
-Ioslide Presentation: 
+Ioslide Presentation: https://rpubs.com/Raamses/1057476
 
 GitHub Repository: https://github.com/Raamses-DS/Developing-Data-Products-Course/tree/main
