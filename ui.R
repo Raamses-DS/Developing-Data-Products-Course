@@ -1,3 +1,4 @@
+# This is the package:
 library(shiny)
 
 # Define UI for application that build histograms.
